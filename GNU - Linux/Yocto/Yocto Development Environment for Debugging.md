@@ -1,0 +1,1 @@
+<https://developer.ridgerun.com/wiki/index.php/Preparing_Yocto_Development_Environment_for_Debugging>
